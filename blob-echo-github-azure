@@ -74,5 +74,27 @@ https://ci.appveyor.com/profile
 https://atlastsecurityservicesonmicrosoftcom.atlassian.net/wiki/pages/diffpagesbyversion.action?pageId=32959&selectedPageVersions=5&selectedPageVersions=4
 http://www.google.com/a/%3C_atlslscsrv_app.%3E
 https://developers.google.com/web/updates/2018/05/devtools#lh3
-
+Request Id: 0281d180-704b-43ad-9a1e-e34e133d7500
+Correlation Id: eeb1559e-8e10-4f5d-9386-a22e5ddd3ed3
+Timestamp: 2020-04-09T09:45:27Z
+Message: AADSTS50020: User account 'laura.vanlaningham@atlsecsrv.org' from identity provider 'live.com' does not exist in tenant '(주)LG전자' and cannot access the application '66327e7a-d195-41bd-9628-6a0ee1bc3c06'(LGEmail) in that tenant. The account needs to be added as an external user in the tenant first. Sign out and sign in again with a different Azure Active Directory user account.
 https://github.com/orgs/ATLSECSRV-ORG/packages?package_type=Docker
+Request Id: c42636fb-4899-4b68-b073-2717c0925c00
+Correlation Id: e63cd61e-9b38-4114-a424-80dd1db1be2b
+Timestamp: 2020-04-09T09:31:02Z
+Message: AADSTS50020: User account 'laura.vanlaningham@atlsecsrv.org' from identity provider 'live.com' does not exist in tenant '(주)LG전자' and cannot access the application '66327e7a-d195-41bd-9628-6a0ee1bc3c06'(LGEmail) in that tenant. The account needs to be added as an external user in the tenant first. Sign out and sign in again with a different Azure Active Directory user account.
+$ ssh-keygen
+Generating public/private rsa key pair.
+Enter file in which to save the key (/Users/emmap1/.ssh/id_rsa):
+Support
+If you’d like help with this pipe, or you have an issue or feature request, let us know on Community.
+
+If you’re reporting an issue, please include:
+
+the version of the pipe
+relevant logs and error messages
+steps to reproduce
+_locales/af/messages.json
+_locales/bg/messages.json
+_locales/ar/messages.json
+blob-echo-github-azure
